@@ -1,16 +1,42 @@
 # 🐍 Beginner Python Projects
 
-This folder contains beginner-friendly Python projects created to practice programming fundamentals and problem-solving skills.
+This folder contains beginner-friendly Python projects created to practice programming fundamentals, automation, database management, and problem-solving skills.
 
-## Projects
+---
+
+## 📂 Projects
 
 ### 🧮 Calculator
-A simple calculator application.
 
-### 🎯 Guess The Number
-A number guessing game using Python logic.
+A simple Python calculator application that performs basic mathematical operations.
 
-### ✅ Todo List
-A simple task management application.
+Skills practiced:
+- Functions
+- User input
+- Conditional statements
 
-More projects will be added soon.
+---
+
+### 🎓 Student Management System
+
+A Python application for managing student information using SQLite database.
+
+Skills practiced:
+- Database operations
+- CRUD operations
+- Data management
+
+---
+
+### 🗂️ File Automation Tool
+
+A Python automation script that organizes files automatically based on their file types.
+
+Skills practiced:
+- File handling
+- Automation
+- OS operations
+
+---
+
+More practical Python projects will be added soon.
