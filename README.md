@@ -2,9 +2,9 @@
 
 Welcome to my Python Projects repository!
 
-This repository contains practical Python projects that demonstrate programming skills, problem-solving, automation, and real-world applications.
+This repository contains practical Python applications that demonstrate programming skills, problem-solving, automation, and real-world software solutions.
 
-The projects are developed as part of my continuous learning journey and professional development in software development and digital solutions.
+The projects reflect my experience in Information Technology, programming, and digital solutions development.
 
 ---
 
@@ -12,7 +12,7 @@ The projects are developed as part of my continuous learning journey and profess
 
 I'm Amal Alawour, an IT Systems Specialist and Python Developer with 10+ years of experience in IT operations, educational technology, technical training, and digital solutions.
 
-My goal is to build practical applications that combine programming, automation, and technology to solve real-world problems.
+I build practical applications using Python to solve real-world problems, improve workflows, and explore automation and data-driven solutions.
 
 ---
 
@@ -20,8 +20,9 @@ My goal is to build practical applications that combine programming, automation,
 
 ## 1. 🧮 Simple Calculator
 
-A beginner Python application that performs basic mathematical operations:
+A Python application that performs basic mathematical operations.
 
+### Features:
 - Addition
 - Subtraction
 - Multiplication
@@ -32,34 +33,42 @@ A beginner Python application that performs basic mathematical operations:
 
 ---
 
-## 2. 🎯 Guess The Number Game
+## 2. 🎓 Student Management System
 
-A simple interactive game where the user tries to guess a randomly generated number.
+A Python-based application for managing student information using SQLite database.
 
-**Skills practiced:**
+### Features:
+- Add students
+- View student records
+- Update student information
+- Delete student records
 
-- Variables
-- Conditions
-- Loops
-- User input
+**Technologies:**
+- Python 3
+- SQLite
 
 ---
 
-## 3. ✅ Todo List Application
+## 3. 🗂️ File Automation Tool
 
-A simple task management application using Python.
+A Python automation script that organizes files automatically based on their file types.
 
-**Features:**
+### Features:
+- File classification
+- Automatic folder creation
+- File organization
 
-- Add tasks
-- View tasks
-- Manage daily activities
+**Technologies:**
+- Python 3
+- OS Module
+- Shutil Module
 
 ---
 
 # 🛠 Technologies
 
 - Python 3
+- SQLite
 - Git
 - GitHub
 - Visual Studio Code
@@ -68,12 +77,12 @@ A simple task management application using Python.
 
 # 🚀 Future Projects
 
-- Student Management System
-- Expense Tracker
-- File Automation Tool
+- Expense Tracker Application
 - Data Analysis Projects
-- Python Automation Scripts
+- Python Automation Tools
+- Power BI Integration Projects
+- Cloud-Based Applications
 
 ---
 
-⭐ More projects will be added as I continue building practical Python solutions.
+⭐ More practical projects will be added as I continue building technology solutions.
