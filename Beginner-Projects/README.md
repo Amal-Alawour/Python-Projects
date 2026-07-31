@@ -3,6 +3,12 @@
 This folder contains beginner-friendly Python projects created to practice programming fundamentals, automation, database management, and problem-solving skills.
 
 ---
+## 🛠 Technologies
+
+- Python
+- SQLite
+- Git & GitHub
+- Visual Studio Code
 
 ## 📂 Projects
 
