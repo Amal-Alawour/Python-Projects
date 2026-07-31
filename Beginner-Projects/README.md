@@ -32,6 +32,12 @@ Skills practiced:
 - CRUD operations
 - Data management
 
+Features:
+- Add student records
+- Update student information
+- Delete records
+- Search student data
+
 ---
 
 ### 🗂️ File Automation Tool
@@ -45,4 +51,10 @@ Skills practiced:
 
 ---
 
-More practical Python projects will be added soon.
+
+## 🚀 Future Improvements
+
+- Add graphical user interfaces (GUI)
+- Connect projects with databases
+- Build data analysis applications using Python
+- Develop automation solutions for real-world tasks
