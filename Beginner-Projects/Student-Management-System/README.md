@@ -84,6 +84,30 @@ python student_management.py
 - Add Data Analytics Dashboard
 
 ---
+---
+
+## 🖥️ Project Demo
+
+The application runs through a command-line interface (CLI) and allows users to manage student records using a SQLite database.
+
+Main operations:
+
+- Add students
+- View student records
+- Update student information
+- Delete student records
+- Search for students
+
+---
+
+## 📌 Project Status
+
+Completed beginner-to-intermediate Python project with database integration.
+
+Future enhancements may include:
+- GUI interface
+- Excel reporting
+- Web application version
 
 ## 👩‍💻 Author
 
