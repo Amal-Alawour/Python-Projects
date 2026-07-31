@@ -6,6 +6,8 @@ File Automation Tool is a Python application that automatically organizes files 
 
 This project demonstrates how Python can be used to automate daily tasks and improve productivity by reducing manual file organization.
 
+The tool helps users manage files efficiently by sorting them into organized folders automatically.
+
 ---
 
 ## 🚀 Features
@@ -14,14 +16,8 @@ This project demonstrates how Python can be used to automate daily tasks and imp
 - Detect file extensions
 - Create folders automatically
 - Move files based on categories
-
-Supported categories:
-
-- Images
-- Documents
-- Excel Files
-- Videos
-- Other Files
+- Handle unknown file types
+- Validate folder path before processing
 
 ---
 
@@ -44,16 +40,82 @@ Supported categories:
 
 ---
 
+## 📂 Supported File Categories
+
+| Category | Extensions |
+|----------|------------|
+| Images | .jpg, .jpeg, .png, .gif |
+| Documents | .pdf, .docx, .txt |
+| Excel Files | .xlsx, .xls, .csv |
+| Videos | .mp4, .avi |
+| Other Files | Other extensions |
+
+---
+
+## 📂 Project Structure
+
+```
+File-Automation-Tool
+│
+├── file_automation.py
+├── README.md
+└── .gitignore
+```
+
+---
+
 ## ▶️ How to Run
 
 1. Make sure Python 3 is installed.
 
-2. Download or clone this repository.
+2. Download or clone the repository.
 
 3. Run the application:
 
 ```bash
-python file_organizer.py
+python file_automation.py
+```
+
+4. Enter the folder path you want to organize.
+
+---
+
+## 🖥️ Project Demo
+
+The application runs through a command-line interface (CLI).
+
+The user provides a folder path, and the tool automatically organizes files into categories based on their extensions.
+
+### Before:
+
+```
+Downloads
+│
+├── image.png
+├── report.pdf
+├── data.xlsx
+└── video.mp4
+```
+
+### After:
+
+```
+Downloads
+│
+├── Images
+│   └── image.png
+│
+├── Documents
+│   └── report.pdf
+│
+├── Excel-Files
+│   └── data.xlsx
+│
+└── Videos
+    └── video.mp4
+```
+
+---
 
 ## 💡 Future Improvements
 
@@ -61,6 +123,8 @@ python file_organizer.py
 - Add more file categories
 - Add duplicate file detection
 - Create a desktop application
+- Add logging system
+- Schedule automatic file organization
 
 ---
 
